@@ -1,7 +1,6 @@
-## UnityEngine Dynamic Link Library
+## Unitys Important Dll's Collection
 
-This library store difference versions of the UnityEngine dynamic link library for use in projects that need to compile unity dll out of the unity environment. welcome pull request.
-
-The store dll version is the latest version of the minor version.
+This collection of Unitys important Dynamic Link Libraries is here so I can use newer Unity Functions in older Games made in older Unity Versions when creating Mono Internal Game Hacks.
 
 > Forked from: https://github.com/CatLib/UnityEngine
+Much ❤️ from me to them for collecting these and publishing them onto GitHub
